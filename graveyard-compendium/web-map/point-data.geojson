@@ -1,0 +1,2300 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Label":"Burial.Ground.Name",
+    "FIELD4":"Condition.of.monument",
+    "FIELD5":"Condition.of.inscription",
+    "FIELD6":"Monument.type",
+    "FIELD7":"Letter.styles",
+    "FIELD8":"Date.of.monument"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700946,45.270846 ]
+    },
+    "properties": {
+    "Label":"Moodie family plot in Claudette Caine park",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4310",
+    "FIELD7":"150",
+    "FIELD8":"1873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.67672,44.482784 ]
+    },
+    "properties": {
+    "Label":"Sacred Heart Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"100",
+    "FIELD7":"200",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631698,45.349937 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"1993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949656,45.367905 ]
+    },
+    "properties": {
+    "Label":"Saint Isidore Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949704,45.367939 ]
+    },
+    "properties": {
+    "Label":"Saint Isidore Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949695,45.367924 ]
+    },
+    "properties": {
+    "Label":"Saint Isidore Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"6087",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "Label":"St James Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1923"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "Label":"St James Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"8200",
+    "FIELD7":"100",
+    "FIELD8":"1961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "Label":"St James Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"8100",
+    "FIELD7":"100",
+    "FIELD8":"1911"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735292,45.422869 ]
+    },
+    "properties": {
+    "Label":"St James Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"8100",
+    "FIELD7":"100",
+    "FIELD8":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.73615,45.422619 ]
+    },
+    "properties": {
+    "Label":"St James Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"8100",
+    "FIELD7":"300",
+    "FIELD8":"1937"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.439924,48.152044 ]
+    },
+    "properties": {
+    "Label":"Central Cemetery Vienna Austria",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9440",
+    "FIELD7":"600",
+    "FIELD8":"1888"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.635324,45.353026 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"NA",
+    "FIELD8":"1971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631018,45.35137 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetary",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5000",
+    "FIELD7":"NA",
+    "FIELD8":"1933"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631473,45.349953 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"2010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631627,45.349937 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"traces",
+    "FIELD6":"9444",
+    "FIELD7":"NA",
+    "FIELD8":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949713,45.36789 ]
+    },
+    "properties": {
+    "Label":"Saint Isidore Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221155,45.210053 ]
+    },
+    "properties": {
+    "Label":"Auld Kirk Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1972"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221155,45.210053 ]
+    },
+    "properties": {
+    "Label":"Auld Kirk Cemetery",
+    "FIELD4":"overgrown",
+    "FIELD5":"mainly legible",
+    "FIELD6":"8200",
+    "FIELD7":"950",
+    "FIELD8":"1896"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.193726,45.228006 ]
+    },
+    "properties": {
+    "Label":"Auld Kirk Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4600",
+    "FIELD7":"950",
+    "FIELD8":"1930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.220028,45.210694 ]
+    },
+    "properties": {
+    "Label":"Auld Kirk Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"1953"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221209,45.209901 ]
+    },
+    "properties": {
+    "Label":"Auld Kirk Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631596,45.350343 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"2011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423426,45.415373 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"traces",
+    "FIELD6":"1000",
+    "FIELD7":"200",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423509,45.415445 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423517,45.415449 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"1991"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423405,45.41546 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5000",
+    "FIELD7":"100",
+    "FIELD8":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423337,45.415422 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"illegible/destroyed/face down",
+    "FIELD6":"9000",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423223,45.415475 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4000",
+    "FIELD7":"300",
+    "FIELD8":"1974"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423082,45.415475 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9000",
+    "FIELD7":"200",
+    "FIELD8":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.422996,45.415499 ]
+    },
+    "properties": {
+    "Label":"St. Mary's Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5000",
+    "FIELD7":"1003",
+    "FIELD8":"2006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.674749,45.388373 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"NA",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.674804,45.388335 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"NA",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101291,45.283146 ]
+    },
+    "properties": {
+    "Label":"St. Michael's Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"200",
+    "FIELD8":"1869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693537,45.246628 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4507",
+    "FIELD7":"100",
+    "FIELD8":"1978"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.430026 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.722939,45.331987 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4707",
+    "FIELD7":"100150",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.722873,45.331983 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9040",
+    "FIELD7":"200250100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723161,45.332742 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"8200",
+    "FIELD7":"200",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568576,45.371595 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On.",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723075,45.332701 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4210",
+    "FIELD7":"100150",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568534,45.371568 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On.",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568518,45.371531 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On.",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"1989"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568518,45.371518 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On.",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"500",
+    "FIELD8":"2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568507,45.371526 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"2013"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.56855,45.371536 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ottawa, On",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"500",
+    "FIELD8":"1997"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.569423,45.371933 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1964"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.569671,45.371941 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534251,45.433861 ]
+    },
+    "properties": {
+    "Label":"Saint Mary the Virgin Cemetry",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4606",
+    "FIELD7":"200",
+    "FIELD8":"1934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534251,45.433824 ]
+    },
+    "properties": {
+    "Label":"Saint Mary the Virgin Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4488",
+    "FIELD7":"200",
+    "FIELD8":"2012"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459352,46.337555 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetery",
+    "FIELD4":"overgrown",
+    "FIELD5":"all legible",
+    "FIELD6":"8200",
+    "FIELD7":"200",
+    "FIELD8":"1948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45935,46.33762 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4150",
+    "FIELD7":"400",
+    "FIELD8":"1932"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459338,46.337675 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"300",
+    "FIELD8":"1904"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459328,46.337724 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"705",
+    "FIELD7":"100",
+    "FIELD8":"1931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459328,46.337774 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4500",
+    "FIELD7":"NA",
+    "FIELD8":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459349,46.337912 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"705",
+    "FIELD7":"100",
+    "FIELD8":"1926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459532,46.33798 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4711",
+    "FIELD7":"200",
+    "FIELD8":"1927"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45959,46.337917 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"illegible/destroyed/face down",
+    "FIELD6":"4300",
+    "FIELD7":"NA",
+    "FIELD8":"1926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459542,46.337877 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"2100",
+    "FIELD7":"NA",
+    "FIELD8":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459618,46.337744 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"2100",
+    "FIELD7":"NA",
+    "FIELD8":"1920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459495,46.33773 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"traces",
+    "FIELD6":"2100",
+    "FIELD7":"250",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460681,46.337677 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4706",
+    "FIELD7":"100",
+    "FIELD8":"1941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460467,46.337304 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"6210",
+    "FIELD7":"300",
+    "FIELD8":"1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460733,46.33731 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"NA",
+    "FIELD8":"1899"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534248,45.433788 ]
+    },
+    "properties": {
+    "Label":"Saint Mary the Virgin Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4319",
+    "FIELD7":"100",
+    "FIELD8":"1955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45951,46.337209 ]
+    },
+    "properties": {
+    "Label":"Saint Mary's Roman Catholic Cemetary",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"all legible",
+    "FIELD6":"6010",
+    "FIELD7":"100",
+    "FIELD8":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5342,45.43378 ]
+    },
+    "properties": {
+    "Label":"Saint Mary the Virgin Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"6317",
+    "FIELD7":"100",
+    "FIELD8":"1978"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673555,45.388787 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4400",
+    "FIELD7":"400",
+    "FIELD8":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534141,45.433747 ]
+    },
+    "properties": {
+    "Label":"SaintMary the Virgin Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4506",
+    "FIELD7":"100",
+    "FIELD8":"2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429903 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.203233,43.159864 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202066,43.160423 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4000",
+    "FIELD7":"100",
+    "FIELD8":"1952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202334,43.160384 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"4000",
+    "FIELD7":"100",
+    "FIELD8":"1913"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202192,43.160413 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4000",
+    "FIELD7":"100",
+    "FIELD8":"1934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202448,43.159541 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"7000",
+    "FIELD7":"400",
+    "FIELD8":"2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.201818,43.159202 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"1915"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673614,45.388475 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673571,45.388475 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4700",
+    "FIELD7":"400",
+    "FIELD8":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137169,44.429903 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913372,45.247339 ]
+    },
+    "properties": {
+    "Label":"Stittsville United Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4380",
+    "FIELD7":"300",
+    "FIELD8":"1987"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913227,45.247419 ]
+    },
+    "properties": {
+    "Label":"Stittsville United Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"traces",
+    "FIELD6":"4700",
+    "FIELD7":"300",
+    "FIELD8":"1871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913677,45.247581 ]
+    },
+    "properties": {
+    "Label":"Stittsville United Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4709",
+    "FIELD7":"100",
+    "FIELD8":"1848"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913457,45.247585 ]
+    },
+    "properties": {
+    "Label":"Stittsville United Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4100",
+    "FIELD7":"150",
+    "FIELD8":"1863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913193,45.248076 ]
+    },
+    "properties": {
+    "Label":"Stittsville United Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"1892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673596,45.388434 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4707",
+    "FIELD7":"100",
+    "FIELD8":"1914"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673489,45.388534 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4400",
+    "FIELD7":"400",
+    "FIELD8":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673569,45.38844 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4700",
+    "FIELD7":"400",
+    "FIELD8":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.67357,45.388343 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"200",
+    "FIELD8":"1891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673601,45.388425 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"collapsed and form unknown",
+    "FIELD5":"illegible/destroyed/face down",
+    "FIELD6":"NA",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137217,44.429995 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetry",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137169,44.429873 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673693,45.388549 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4700",
+    "FIELD7":"100",
+    "FIELD8":"1919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673639,45.388427 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemeter",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4607",
+    "FIELD7":"200",
+    "FIELD8":"1917"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429903 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"1000",
+    "FIELD7":"150",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673628,45.388246 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4700",
+    "FIELD7":"100",
+    "FIELD8":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137255,44.429934 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"1000",
+    "FIELD7":"180",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.67373,45.388014 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4709",
+    "FIELD7":"400",
+    "FIELD8":"1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429873 ]
+    },
+    "properties": {
+    "Label":"English Line Bible Christian Church and Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"1000",
+    "FIELD7":"180",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673585,45.388074 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"8480",
+    "FIELD7":"200",
+    "FIELD8":"1909"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673489,45.388462 ]
+    },
+    "properties": {
+    "Label":"Billings Estate Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"8200",
+    "FIELD7":"100",
+    "FIELD8":"2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700949,45.270883 ]
+    },
+    "properties": {
+    "Label":"Moodie Family Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"5200",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700999,45.270887 ]
+    },
+    "properties": {
+    "Label":"Moodie Family Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4607",
+    "FIELD7":"300",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101226,45.283195 ]
+    },
+    "properties": {
+    "Label":"St. Michael's Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"9427",
+    "FIELD7":"400",
+    "FIELD8":"1892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693495,45.24668 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"200",
+    "FIELD8":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101528,45.282995 ]
+    },
+    "properties": {
+    "Label":"St. Michael's Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"6200",
+    "FIELD7":"200",
+    "FIELD8":"1914"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.10144,45.283036 ]
+    },
+    "properties": {
+    "Label":"St. Michael's Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4706",
+    "FIELD7":"400",
+    "FIELD8":"1920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101376,45.283092 ]
+    },
+    "properties": {
+    "Label":"St. Michael's Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4100",
+    "FIELD7":"200",
+    "FIELD8":"1860"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.318379,44.478919 ]
+    },
+    "properties": {
+    "Label":"Victoria Cemetry",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4000",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.701011,45.270896 ]
+    },
+    "properties": {
+    "Label":"Moodie Family Cemetery",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"300",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.677747,44.482308 ]
+    },
+    "properties": {
+    "Label":"Sacred Heart Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"8200",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700967,45.270917 ]
+    },
+    "properties": {
+    "Label":"Moodie Family Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"4500",
+    "FIELD7":"150",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568491,45.371572 ]
+    },
+    "properties": {
+    "Label":"Ramsayville Cemetary, Ontario, On",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"mainly legible",
+    "FIELD6":"105",
+    "FIELD7":"100",
+    "FIELD8":"2000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700988,45.270909 ]
+    },
+    "properties": {
+    "Label":"Moodie Family Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"4100",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693336,45.246454 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"9410",
+    "FIELD7":"300",
+    "FIELD8":"1889"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949679,45.367875 ]
+    },
+    "properties": {
+    "Label":"Saint Isidore Roman Catholic Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4607",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.200951,43.159778 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"1975"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.200535,43.160361 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"5300",
+    "FIELD7":"100",
+    "FIELD8":"1902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199538,43.161981 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4600",
+    "FIELD7":"400",
+    "FIELD8":"1970"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199519,43.161298 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"100",
+    "FIELD8":"1953"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199549,43.161403 ]
+    },
+    "properties": {
+    "Label":"Victoria Lawn Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4500",
+    "FIELD7":"200",
+    "FIELD8":"1922"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723091,45.332636 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5117",
+    "FIELD7":"200",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723389,45.332892 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"traces",
+    "FIELD6":"5101",
+    "FIELD7":"200950100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723313,45.332972 ]
+    },
+    "properties": {
+    "Label":"Merivale United Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9443",
+    "FIELD7":"100",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7705,43.6942 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4700",
+    "FIELD7":"100",
+    "FIELD8":"1815"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7705,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5120",
+    "FIELD7":"500",
+    "FIELD8":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5100",
+    "FIELD7":"150",
+    "FIELD8":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5200",
+    "FIELD7":"150",
+    "FIELD8":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"all legible",
+    "FIELD6":"510",
+    "FIELD7":"150",
+    "FIELD8":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"all legible",
+    "FIELD6":"5300",
+    "FIELD7":"500",
+    "FIELD8":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4100",
+    "FIELD7":"500",
+    "FIELD8":"1869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "Label":"The Old Brampton Cemetry",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4670",
+    "FIELD7":"500",
+    "FIELD8":"1858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "Label":"Merivale Cemeteries Pinecrest Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"1966"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631653,45.349937 ]
+    },
+    "properties": {
+    "Label":"Woods Anglican Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4100",
+    "FIELD7":"200",
+    "FIELD8":"2004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "Label":"Merivale Cemeteries Pinecrest Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"300",
+    "FIELD8":"1971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "Label":"Merivale Cemeteries Pinecrest Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"200",
+    "FIELD8":"1961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "Label":"Merivale Cemeteries Pinecrest Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"200",
+    "FIELD8":"2006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693271,45.246405 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound, but displaced",
+    "FIELD5":"mint",
+    "FIELD6":"4600",
+    "FIELD7":"100",
+    "FIELD8":"1941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "Label":"Merivale Cemeteries Pinecrest Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"105",
+    "FIELD7":"100",
+    "FIELD8":"2011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693835,45.246427 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mint",
+    "FIELD6":"5800",
+    "FIELD7":"150",
+    "FIELD8":"1986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693488,45.246359 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"falling apart, incomplete but recognisable",
+    "FIELD5":"illegible/destroyed/face down",
+    "FIELD6":"9470",
+    "FIELD7":"NA",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693486,45.246367 ]
+    },
+    "properties": {
+    "Label":"River Road Manotick Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"9400",
+    "FIELD7":"200",
+    "FIELD8":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952258,45.438855 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5100",
+    "FIELD7":"400",
+    "FIELD8":"1863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952348,45.438874 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"4700",
+    "FIELD7":"100150",
+    "FIELD8":"1840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952332,45.438868 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"4700",
+    "FIELD7":"200150",
+    "FIELD8":"1850"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952326,45.43886 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4700",
+    "FIELD7":"300150200",
+    "FIELD8":"1883"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.95246,45.438793 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"5106",
+    "FIELD7":"200500600",
+    "FIELD8":"1878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952479,45.438811 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"4500",
+    "FIELD7":"100150",
+    "FIELD8":"1897"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9525,45.438868 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"traces",
+    "FIELD6":"5309",
+    "FIELD7":"200150",
+    "FIELD8":"1881"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952511,45.43888 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"9440",
+    "FIELD7":"200150",
+    "FIELD8":"1875"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952296,45.438882 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"all legible",
+    "FIELD6":"9450",
+    "FIELD7":"200",
+    "FIELD8":"1879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.953426,45.439103 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"1120",
+    "FIELD7":"100150600",
+    "FIELD8":"1854"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952521,45.438889 ]
+    },
+    "properties": {
+    "Label":"Old Saint Mary's Anglican Church Cemetery",
+    "FIELD4":"sound and in situ (even if leaning)",
+    "FIELD5":"mainly legible",
+    "FIELD6":"5200",
+    "FIELD7":"200600",
+    "FIELD8":"1907"
+    }
+  }
+]
+}

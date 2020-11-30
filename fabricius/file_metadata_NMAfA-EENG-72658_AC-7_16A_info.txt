@@ -1,0 +1,73 @@
+Smithsonian Institution
+______________________
+File Usage:
+
+Usage conditions apply
+There are restrictions for re-using this media. For more information, visit the Smithsonian's Terms of Use page at https://www.si.edu/Termsofuse
+
+
+______________________
+Object details:
+
+Title: Wall decoration in sunk relief. Karnak, Egypt, [negative]
+Smithsonian Record ID: edanmdm:siris_arc_266304
+
+	TITLE
+	Wall decoration in sunk relief. Karnak, Egypt, [negative]
+
+	METADATA USAGE
+	CC0
+
+	DATA SOURCE
+	Eliot Elisofon Photographic Archives
+
+	PHOTOGRAPHER
+	Elisofon, Eliot
+
+	PHYSICAL DESCRIPTION
+	photographic negative b&w; 35mm
+
+	NOTES
+	Title source: Index card based on photographer's notes.
+
+	ORGANIZATION
+	Image index by negative number and EEPA subject categories
+
+	SUMMARY
+	"Temple decoration was carved in both raised (bas) and sunk (en creux) relief. The more time-consuming raised relief was often reserved for inner surfaces, while incised carving was often used on outer surfaces where shadows helped define its forms in bright sunlight. By Ramessid times the practice of usurpation of royal monuments had become so common that sunk relief -especially royal cartouches- was carved at great depth in order to discourage or make impossible the recarving of the stone by future kings." [Wilkinson R., 2000: The Complete Temples of Ancient Egypt. Thames and Hudson]. "A village on East bank of the Nile in Upper Egypt; with Luxor, Karnak is on the site of ancient Thebes; location of temple of Amen (Amun), considered one of the finest examples of early New Kingdom religious architecture; also has many Middle Kingdom remains." [The J.P.Getty Fund: Thesaurus of Geographic Names]. This photograph was taken when Eliot Elisofon was on assignment for American Institute of Architects, directing the Egyptian portion of the documentary on Ancient Egypt, March 1965 and September 1965.
+
+	REPOSITORY LOC.
+	Smithsonian Institution, National Museum of African Art, Eliot Elisofon Photographic Archives, 950 Independence Avenue, S.W., Washington, DC 20560-0708
+
+	PLACE
+	Egypt
+
+	PLACE
+	Africa
+
+	LOCAL NUMBER
+	Negative number 72658 AC-7, 16A
+
+	LOCAL NUMBER
+	EEPA EENG 06783
+
+	DATE
+	1965
+
+	TYPE
+	Black-and-white negatives
+
+	TYPE
+	Negatives
+
+	TOPIC
+	Cultural landscapes
+
+	TOPIC
+	Monuments
+
+	TOPIC
+	Architecture
+
+______________________
+
